@@ -13,6 +13,22 @@ const sampleData = [
   { id: 10, name: 'Product 10', price: 700 },
   { id: 11, name: 'Product 11', price: 800 },
   { id: 12, name: 'Product 12', price: 980 },
+  { id: 13, name: 'Product 13', price: 1200 },
+  { id: 14, name: 'Product 14', price: 1100 },
+  { id: 15, name: 'Product 15', price: 1234 },
+  { id: 16, name: 'Product 16', price: 1000 },
+  { id: 17, name: 'Product 17', price: 999 },
+  { id: 18, name: 'Product 18', price: 300 },
+  { id: 19, name: 'Product 19', price: 50 },
+  { id: 20, name: 'Product 20', price: 100 },
+  { id: 21, name: 'Product 21', price: 150 },
+  { id: 22, name: 'Product 22', price: 200 },
+  { id: 23, name: 'Product 23', price: 250 },
+  { id: 24, name: 'Product 24', price: 300 },
+  { id: 25, name: 'Product 25', price: 344 },
+  { id: 26, name: 'Product 26', price: 500 },
+  { id: 27, name: 'Product 27', price: 1111 },
+  { id: 28, name: 'Product 28', price: 1200 },
 ];
 
 function ProductCard({ product }) {
