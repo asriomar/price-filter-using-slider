@@ -1,5 +1,9 @@
 # React + Vite
 
+This project use React + Vite + Tailwind  CSS (Use CDN only).
+
+This is a simple price range slider to filter product according to preffered customer price.  
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
